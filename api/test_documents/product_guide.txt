@@ -1,0 +1,15 @@
+Product Guide: AI Assistant Pro
+
+Features:
+- Natural language processing
+- Document summarization
+- 24/7 availability
+- Custom training on your data
+- API integration
+
+Pricing:
+- Basic: $29/month
+- Professional: $99/month  
+- Enterprise: Custom pricing
+
+Support: Contact support@techcorp.com
